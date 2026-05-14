@@ -83,7 +83,8 @@ Product Demand by Country (Map Visualization)
 • Demand Analysis: Understand global demand distribution to optimize supply chain. 
 • Sales Forecasting: Revenue trend patterns help anticipate future high-sales periods.
 
-Screenshots / Demos Dashboard Preview:(https://github.com/AnishaSailoni/onlineretaildashboard/blob/main/Snapshot%20of%20online%20retail%20dashboard.png)
+Screenshots / Demos 
+![Dashboard Preview](https://raw.githubusercontent.com/AnishaSailoni/onlineretaildashboard/main/Snapshot%20of%20online%20retail%20dashboard.png)
 
 📌 Author Name: Anisha Sailoni Tool Used: Microsoft Power BI
 
